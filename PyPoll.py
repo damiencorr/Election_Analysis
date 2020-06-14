@@ -7,12 +7,16 @@
 # 4. Percentage of votes each candidate won
 # 5. The winner of the election based on popular vote
 
-# """ Open the data file.
-# Write down the names of all the candidates.
-# Add a vote count for each candidate.
-# Get the total votes for each candidate.
-# Get the total votes cast for the election. """
 
+# Overall approach -
+# Open the data file.
+# Capture the names of all the candidates.
+# Add a vote counter for each candidate.
+# Get the total votes for each candidate.
+# Get the total votes cast for the election.
+# Calculate %age of total votes for each candidate
+# Identify the winner
+# Output election results as per requirements
 
 
 
